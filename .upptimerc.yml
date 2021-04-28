@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.megamov.fr
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/megamovnetwork/upptime/master/megamov.png
   name: MeGaMoV Status
   introTitle: "**MeGaMoV** status page."
   introMessage: STATUS
