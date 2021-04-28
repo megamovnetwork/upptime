@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: MeGaMoV Status
   introTitle: "**MeGaMoV** status page."
-  introMessage: **STATUS**
+  introMessage: STATUS
   navbar:
     - title: Status
       href: /
