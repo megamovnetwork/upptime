@@ -58,19 +58,19 @@
     "url": "$NODE_WEBHOSTING",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "node-webhosting",
-    "status": "down",
-    "uptime": "32.43%",
-    "uptimeDay": "32.43%",
-    "uptimeWeek": "32.43%",
-    "uptimeMonth": "32.43%",
-    "uptimeYear": "32.43%",
-    "time": 534,
-    "timeDay": 534,
-    "timeWeek": 534,
-    "timeMonth": 534,
-    "timeYear": 534,
+    "status": "up",
+    "uptime": "24.63%",
+    "uptimeDay": "24.63%",
+    "uptimeWeek": "24.63%",
+    "uptimeMonth": "24.63%",
+    "uptimeYear": "24.63%",
+    "time": 470,
+    "timeDay": 470,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2021-04-29": 162
+      "2021-04-29": 239
     }
   },
   {
