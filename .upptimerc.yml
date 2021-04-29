@@ -20,7 +20,7 @@ status-website:
   cname: status.megamov.fr
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/megamovnetwork/upptime/master/megamov.png
-  name: MeGaMoV
+  name: MeGaMoV Status
   introTitle: "**MeGaMoV** infrastructure"
   introMessage: Summary
   navbar:
