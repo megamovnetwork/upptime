@@ -1,7 +1,7 @@
 url: $NODE_WEBHOSTING
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-04-29T23:50:40.181Z
+status: up
+code: 200
+responseTime: 277
+lastUpdated: 2021-04-30T02:30:09.051Z
 startTime: Thu Apr 29 2021 07:57:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
