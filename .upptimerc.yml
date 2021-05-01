@@ -10,7 +10,7 @@ sites:
   - name: Node Teamspeak
     url: $NODE_TEAMSPEAK
   - name: Node Webhosting
-    url: $NODE_WEBHOSTING
+    url: $NODE_HOSTINGWEB
   - name: Node Web
     url: $NODE_WEB
    
