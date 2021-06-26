@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1269,
     "timeDay": 1002,
     "timeWeek": 1216,
     "timeMonth": 1258,
     "timeYear": 1269,
     "dailyMinutesDown": {
-      "2021-06-25": 1
+      "2021-06-26": 11,
+      "2021-06-25": 7
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "teamspeak",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1587,
     "timeDay": 3429,
     "timeWeek": 3619,
     "timeMonth": 1805,
     "timeYear": 1587,
     "dailyMinutesDown": {
-      "2021-06-25": 0
+      "2021-06-26": 11,
+      "2021-06-25": 7
     }
   },
   {
@@ -81,18 +83,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "web",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1011,
     "timeDay": 651,
     "timeWeek": 1144,
     "timeMonth": 1149,
     "timeYear": 1011,
     "dailyMinutesDown": {
-      "2021-06-25": 0
+      "2021-06-26": 11,
+      "2021-06-25": 7
     }
   }
 ]
