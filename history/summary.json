@@ -4,9 +4,9 @@
     "url": "$D1_RBX4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dedicated-1-rbx-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 717,
     "timeMonth": 733,
     "timeYear": 727,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-28": 0
+    }
   },
   {
     "name": "Cloud",
