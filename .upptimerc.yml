@@ -3,8 +3,6 @@ owner: megamovnetwork # Your GitHub organization or username, where this reposit
 repo: upptime # The name of this repository
 
 sites:
-  - name: Dedicated 1 - RBX4
-    url: $D1_RBX4
   - name: Cloud
     url: $NODE_CLOUD
   - name: Teamspeak
