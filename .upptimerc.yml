@@ -7,8 +7,6 @@ sites:
     url: $NODE_CLOUD
   - name: Teamspeak
     url: $NODE_TEAMSPEAK
-  - name: Webhosting
-    url: $NODE_HOSTINGWEB
   - name: Web
     url: $NODE_WEB
    
