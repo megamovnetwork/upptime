@@ -1,7 +1,7 @@
 url: $NODE_CLOUD
-status: down
-code: 500
-responseTime: 765
-lastUpdated: 2022-07-18T21:20:42.123Z
+status: up
+code: 200
+responseTime: 832
+lastUpdated: 2022-07-18T22:09:16.444Z
 startTime: Sat May 01 2021 22:38:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
