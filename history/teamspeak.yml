@@ -1,7 +1,7 @@
 url: $NODE_TEAMSPEAK
-status: down
-code: 504
-responseTime: 5729
-lastUpdated: 2022-08-13T22:57:22.770Z
+status: up
+code: 200
+responseTime: 1587
+lastUpdated: 2022-08-13T23:10:35.643Z
 startTime: Sat May 01 2021 22:38:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
